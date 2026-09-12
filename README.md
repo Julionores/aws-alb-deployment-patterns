@@ -22,9 +22,11 @@ mais jamais l'ALB, les Target Groups ni les règles qui les relient réellement 
 > Côté Machine Learning, voir aussi [`gradientforge`](https://github.com/Julionores/gradientforge),
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye),
 > [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner),
-> [`ticket-tide`](https://github.com/Julionores/ticket-tide) et
-> [`inspectline`](https://github.com/Julionores/inspectline), un détecteur d'objets
-> (Faster R-CNN) pour le contrôle qualité industriel.
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide),
+> [`inspectline`](https://github.com/Julionores/inspectline),
+> [`runbook-rag`](https://github.com/Julionores/runbook-rag), un assistant documentaire RAG,
+> et [`agent-matching-recrutement`](https://github.com/Julionores/agent-matching-recrutement),
+> un agent à outils multiples avec relâchement de contraintes.
 
 ## Pattern 1 — ALB devant un Auto Scaling Group
 
