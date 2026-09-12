@@ -21,9 +21,10 @@ mais jamais l'ALB, les Target Groups ni les règles qui les relient réellement 
 > [`iso27001-isms-toolkit`](https://github.com/Julionores/iso27001-isms-toolkit).
 > Côté Machine Learning, voir aussi [`gradientforge`](https://github.com/Julionores/gradientforge),
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye),
-> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner) et
-> [`ticket-tide`](https://github.com/Julionores/ticket-tide), une prévision de série
-> temporelle (famille ARMA).
+> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner),
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide) et
+> [`inspectline`](https://github.com/Julionores/inspectline), un détecteur d'objets
+> (Faster R-CNN) pour le contrôle qualité industriel.
 
 ## Pattern 1 — ALB devant un Auto Scaling Group
 
