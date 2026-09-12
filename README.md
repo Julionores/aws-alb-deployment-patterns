@@ -19,6 +19,8 @@ mais jamais l'ALB, les Target Groups ni les règles qui les relient réellement 
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr) et
 > [`iso27001-isms-toolkit`](https://github.com/Julionores/iso27001-isms-toolkit).
+> Côté Machine Learning, voir aussi [`gradientforge`](https://github.com/Julionores/gradientforge),
+> un moteur de régression et classification codé en NumPy pur.
 
 ## Pattern 1 — ALB devant un Auto Scaling Group
 
